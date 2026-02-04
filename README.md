@@ -1,4 +1,4 @@
-<h1 align="left">Felipe Oliveira Poiatti</h1>
+<h1 align="center">Felipe Oliveira Poiatti</h1>
 
 <p align="left"> 
 <strong>Estudante de Engenharia de Software | Análise e Desenvolvimento de Sistemas</strong>, 
