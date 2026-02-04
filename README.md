@@ -3,7 +3,7 @@
 <p align="center"> 
 <strong>Estudante de Engenharia de Software | Análise e Desenvolvimento de Sistemas</strong>
 </p>
-
+<br><br>
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
