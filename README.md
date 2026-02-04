@@ -3,7 +3,7 @@
 <p align="center"> 
 <strong>Estudante de Engenharia de Software | Análise e Desenvolvimento de Sistemas</strong>
 </p>
----
+
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
@@ -15,7 +15,6 @@
 
 </p>
 
----
 
 <h2 align="left">🛠️ Tecnologias e Ferramentas</h2>
 
@@ -44,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
----
+
 
 <h2 align="left">📂 Projetos</h2>
 
@@ -53,7 +52,7 @@
 com foco em desenvolvimento web, lógica de back-end e bancos de dados relacionais.
 </p>
 
----
+
 
 <h2 align="left">📫 Contato</h2>
 
