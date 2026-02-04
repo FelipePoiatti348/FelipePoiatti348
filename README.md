@@ -12,8 +12,8 @@
 💻 Área de atuação: <strong>Desenvolvimento Web, Back-end e Bancos de Dados Relacionais</strong><br>
 ☁️ Certificação: <strong>AWS Academy Graduate – Cloud Foundations</strong><br>
 🎯 Objetivo profissional: <strong>Estágio em Tecnologia da Informação (TI)</strong>, com atuação em desenvolvimento Web e Back-end e manutenção de sistemas, lógica de negócio, versionamento de código e bancos de dados<br>
-
 </p>
+<br>
 
 
 <h2 align="left">🛠️ Tecnologias e Ferramentas</h2>
@@ -42,6 +42,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
+<br>
 
 
 
@@ -51,6 +52,7 @@
 🚀 Confira os repositórios fixados abaixo para ver projetos acadêmicos e pessoais,
 com foco em desenvolvimento web, lógica de back-end e bancos de dados relacionais.
 </p>
+<br>
 
 
 
