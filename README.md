@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Felipe Poiatti
 
-<!--
-**FelipePoiatti348/FelipePoiatti348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas  
+💻 Foco em Desenvolvimento Web, Back-end e Banco de Dados  
+☁️ Certificado AWS Academy – Cloud Foundations  
+📍 São Caetano do Sul - SP  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- Java | PHP | JavaScript | C#
+- HTML | CSS
+- SQL (bancos de dados relacionais)
+- Git & GitHub
+- Fundamentos de Cloud Computing (AWS)
+
+---
+
+## 🎯 Objetivo Profissional
+Busco uma oportunidade de **estágio em Tecnologia da Informação**
+para atuar no desenvolvimento e manutenção de sistemas,
+aprimorando qualidade de software, lógica de negócio e versionamento.
+
+---
+
+## 📂 Projetos
+Os principais projetos desenvolvidos estão disponíveis
+nos repositórios fixados abaixo 👇
+
+---
+
+## 📫 Contato
+- 📧 Email: felipe.poiatti348@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/felipe-poiatti-4084a62b9
