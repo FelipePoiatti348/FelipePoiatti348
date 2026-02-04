@@ -1,10 +1,8 @@
 <h1 align="center">Felipe Oliveira Poiatti</h1>
 
 <p align="center"> 
-<strong>Estudante de Engenharia de Software | Análise e Desenvolvimento de Sistemas</strong>, 
-de São Caetano do Sul - SP 🇧🇷
+<strong>Estudante de Engenharia de Software | Análise e Desenvolvimento de Sistemas</strong>
 </p>
-
 ---
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
